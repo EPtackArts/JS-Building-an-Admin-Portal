@@ -13,12 +13,12 @@
       "title": "Tess the Wonder Dog",
       "description": "The tale of a dog who gets super powers",
       "year": 2007,
-      "quantity": "3",
+      "quantity": "14",
       "imageURL": "/assets/tess.jpg"
     },
     {
       "id": 3,
-      "title": "The Annals of Arathrae",
+      "title": "Legents of Arathrae",
       "description": "This anthology tells the intertwined narratives of six fairy tales.",
       "year": 2016,
       "quantity": "8",
